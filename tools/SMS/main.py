@@ -10,3 +10,4 @@ def flood(target):
     service = randomData.random_service(__services)
     service = request.Service(service)
     service.sendMessage(target)
+color 9
